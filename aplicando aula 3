@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="M.L.P.">
+        <meta name="description" content="Uma breve introdução à tecnologia da informação (T.I.), além de uma suscinta abordagem sobre o tema de machine learning e inteligência artificial"> 
+        <meta name="generator" content="Visual Studio Code">
+        <meta name="keywords" content="t.i., sistemas de informação, machine learning, inteligência artificial">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>T.I. - Machine Learning e I.A.</title>
+    </head>
+    <body>
+        <style>
+            header{
+                position: relative; 
+                width: auto;
+                height: 100px;
+                background-color: dimgrey;
+            }
+            img {
+                border-radius: 100%;
+                position: absolute;
+                margin-top: 10px;
+                margin-left: 30%;
+                margin-right: auto;
+                
+            }
+                
+            h1 {
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                position: absolute;
+                margin-top: 30px;
+                margin-left: 40%;
+                background-color: brown;
+            }
+
+            nav{
+                background-color: darkgrey;
+                width: 95%;
+                height: 30px;
+                position: absolute;
+                left: 2.5%;
+                text-align: center;
+                padding-top: 10px;
+        
+                }
+        </style>
+        <header>
+            <a href="homepage.html" title="Homepage"><img src="Imagens/imagem 1.jpg" width="150px" height="80px"></a>
+            
+            <h1>Tecnologia da Informação</h1>
+            
+        </header><hr>
+        <nav>
+            <a href="homepage.html" title="Homepage">HOME</a> |
+            <a href="machine.html">MACHINE LEARNING e INTELIGÊNCIA ARTIFICIAL</a> |
+            <a href="formulario.html" target="_blank">CONTATO</a>
+        </nav>
+        <section>
+            <table width="100%" >
+                <tr height="10px">
+                </tr>
+                <tr>
+                    <td width="2%"></td>
+                    <th width="35%"><h2>O que significa T.I.?</h2></th>
+                    <td width="2%"></td>
+                </tr>
+                <tr>
+                    <th width="2%"></th>
+                    <td><p>A Tecnologia da Informação (ou, em inglês, Information Technology — IT) 
+                                   pode ser definida como o conjunto de todas as atividades e soluções providas
+                                   por recursos computacionais que visam permitir a obtenção, o armazenamento, 
+                                   a proteção, o processamento, o acesso, o gerenciamento e o uso das informações.</p>
+                        <p>Em seus primórdios, os computadores não passavam de "máquinas gigantes" que
+                                   agilizavam tarefas lógicas em instituições de pesquisa, grandes empresas e 
+                                   entidades governamentais. Mas, com o avanço tecnológico, essas máquinas ficaram 
+                                   não só mais compactas, como também se tornaram mais confiáveis e potentes. De 
+                                   tão expressiva, a evolução computacional nos levou a um conceito que está presente 
+                                   em todas as áreas do conhecimento: a Tecnologia da Informação (TI). Essa denominação 
+                                   faz bastante sentido, porque veremos que a informação sempre esteve por 
+                                   trás de todos os esforços de desenvolvimento da computação, desde os primitivos 
+                                   computadores do século passado até os moderníssimos servidores, PCs, notebooks, 
+                                   smartphones e outros dispositivos eletrônicos que nos cercam atualmente. Mas isso 
+                                   nos leva à pergunta: o que é informação?</p>
+                    </tr>
+                    </table>
+                    <table>
+                    <tr>
+                        <td width="2%"></td>               
+                        <th width="35%"><h3>O que é informação?</h3></th>
+                        <td width="2%"></td>
+                    </tr>
+                    <tr>
+                        <td width="2%"></td>
+                        <td>
+                            <p> Do ponto de vista analítico, a informação é um patrimônio, um conjunto de dados 
+                                que possui valor. Quando digital, esses dados não correspondem meramente a um monte 
+                                de bits e bytes, mas a um conjunto classificado e organizado de detalhes que, como 
+                                tal, podem ser usados por pessoas, instituições de ensino e pesquisa, governos e 
+                                outras organizações em prol de um ou mais objetivos. Nesse sentido, a informação é 
+                                tão importante que pode determinar até a sobrevivência de um negócio, por exemplo. 
+                                Basta pensar no que aconteceria se uma instituição financeira perdesse todas as informações 
+                                de seus clientes ou se imaginar no papel de uma pessoa que enriquece da noite para o dia 
+                                ao descobrir uma informação valiosa analisando grandes volumes de dados. </p>
+                            <p>É aqui que a Tecnologia da Informação passa a cumprir um papel importante no dia a dia 
+                               de indivíduos e organizações. São as decisões ligadas a esse conceito que irão definir 
+                               como dados podem ser coletados, analisados e classificados para se transformarem em 
+                               informação e, a partir daí, serem disponibilizados, acessados, processados e protegidos 
+                               em benefício de determinada finalidade.
+                            </p>
+                        </td>
+                    </table>
+                    <table>
+                        <tr>    
+                        <td width="2%"></td>
+                        <th width="35%"><h3>Principais áreas de T.I.</h3></th>
+                        <td width="2%"></td>
+                        </tr>
+                        <tr>
+                            <td width="2%">
+                        <td>    <p>
+                                As tarefas de planejamento, gerenciamento, desenvolvimento, implementação, manutenção, 
+                                atualização, segurança, otimização e suporte relacionadas a soluções computacionais 
+                                cabem aos profissionais de TI. por isso, podemos encontrar 5 áreas (ou temas) inerentes
+                                à tecnologia da informação.
+                                <ul>
+                                    <li><b>Banco de dados:</b> o termo “Big Data” é um dos mais falados no setor de TI 
+                                        já há alguns anos, justamente devido ao grande desafio que ele representa para
+                                        as empresas e profissionais da área: trata-se da gestão das imensas quantidades 
+                                        de dados armazenadas em sistemas digitais na atualidade. Essas informações, quando 
+                                        bem organizadas e geridas, auxiliam diretores e demais líderes corporativos a 
+                                        tomarem decisões mais estratégicas e eficientes. Dessa forma, entende-se que 
+                                        um bom profissional de banco de dados deve ter uma sólida base de conceitos 
+                                        desse segmento, bem como investir na compreensão de temas como Business 
+                                        Intelligence, administração de banco de dados (MySQL e PostGreSQL) e 
+                                        gerenciamento de projetos, por exemplo.</li>
+                                    <li><p><b>Metodologias ágeis:</b> essa área visa tornar o desenvolvimento de 
+                                           projetos mais eficiente. A aplicação de ferramentas como Kanban e 
+                                           Scrum, por exemplo, começou em países líderes de mercado como os 
+                                           Estados Unidos, mas hoje em dia são amplamente utilizadas por empresas 
+                                           dos mais diversos portes no nosso país. O setor público também tem 
+                                           investido na transformação digital das suas estruturas e, portanto, 
+                                           busca profissionais competentes para desenvolver projetos da forma 
+                                           mais eficiente possível.</p></li>
+                                    <li><p><b>Engenharia de Software:</b> há um tempo atrás, havia uma visão 
+                                              no mercado de que apenas empresas de TI deveriam investir no 
+                                              desenvolvimento de softwares para se destacarem nos seus segmentos. 
+                                              Contudo, ao analisarmos previsões e tendências feitas por 
+                                              especialistas em inovação e tecnologia, vemos um ponto em comum 
+                                              entre eles: há a percepção, na atualidade, de que toda empresa 
+                                              pode ser uma empresa de software. Tal afirmação acima se dá porque, 
+                                              hoje em dia, a tecnologia é uma parte estratégica de uma grande 
+                                              quantidade de negócios</p>
+                                            <p>Por isso, a engenharia de software precisa ser considerada nos 
+                                               seus estudos para a área de TI. O profissional que atua nessa 
+                                               especialidade deve ter uma visão clara de todo o processo de 
+                                               desenvolvimento. Entende-se que a compreensão sobre assuntos 
+                                               como qualidade e ciclo de vida de software, por exemplo, fazem 
+                                               total diferença no sucesso dos projetos desenvolvidos pelo profissional.</p></li>
+                                    <li><p><b>Governança de T.I.:</b> um dos desafios enfrentados pelas empresas 
+                                              (sejam elas públicas ou privadas) é alinhar as estratégias adotadas 
+                                              pela TI com as estratégias das organizações em si. Nesse contexto, 
+                                              surge um profissional indispensável para os novos tempos: o especialista 
+                                              em governança de TI. Ele será a ponte entre a TI e a direção da empresa, 
+                                              ao alinhar expectativas e traçar metas coerentes para os projetos 
+                                              desenvolvidos. Dessa forma, ele deve ter um alto nível de conhecimentos 
+                                              na parte técnica, assim como ter excelentes habilidades de comunicação 
+                                              e de gestão para atuar de forma eficiente nesse meio de campo.</p></li>
+                                    <li><p><b>Machine learning e inteligência artificial:</b> por fim, precisamos 
+                                              destacar as áreas de machine learning e inteligência artificial: 
+                                              compreender que o desenvolvimento de soluções inteligentes têm 
+                                              um impacto direto no lucro das organizações e também na satisfação 
+                                              dos clientes com os produtos oferecidos para o mercado. A inteligência 
+                                              artificial ajuda a criar experiências únicas para o consumidor e, 
+                                              portanto, áreas como Marketing e Vendas dependem cada vez mais 
+                                              dos profissionais de TI para a implementação dos seus projetos.</p></li>           
+                                </ul>
+                                </p>
+                        </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td><p>É sobre esse último tema que dedicamos uma <a href="C:\Users\Lucas\Desktop\Faculdade\Aulas\1º Semestre\FUNDAMENTO DE WEB\Aplicando Conhecimento\machine.html" title="Machine Learning e Inteligência Artificial">página</a> de nosso site.</p></td>
+                        <td></td>
+                        </tr>
+            </table><hr>
+        </section>
+        <footer>
+               <h6 align="center">Tecnologia da Informação (T.I.) - 2022 - <a href="formulario.html" target="_blanck">Contato</a></h6>
+        </footer>
+        </body>
+</html>
